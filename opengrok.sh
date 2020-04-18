@@ -1,6 +1,6 @@
 #!/bin/bash
 
-GROKPATH=/opengrok
+GROKPATH=~/opengrok
 CONTAINER_NAME=opengrok
 PORT=8888
 REINDEX="0"
